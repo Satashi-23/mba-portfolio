@@ -18,7 +18,7 @@ Vancouver, Canada | <a href="https://www.linkedin.com/in/tashi-tshering-tamang-8
 
 <div class="about-container">
 
-<img src="images/headshot.jpg" class="profile-pic-small" alt="Tashi Tshering Tamang">
+<img src="images/headshot.JPG" class="profile-pic-small" alt="Tashi Tshering Tamang">
 
 <div class="about-text">
 
