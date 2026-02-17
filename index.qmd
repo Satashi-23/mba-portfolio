@@ -1,0 +1,114 @@
+---
+title: ""
+---
+
+::: {.poster}
+
+# hello world! {.name}
+<div class="top-image">
+  <div class="top-overlay"></div>
+</div>
+
+**MBA Student**  
+Vancouver, Canada | <a href="https://www.linkedin.com/in/tashi-tshering-tamang-8b6a52344/" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
+
+---
+
+## About Me {#about}
+
+<div class="about-container">
+
+<img src="images/headshot.jpg" class="profile-pic-small" alt="Tashi Tshering Tamang">
+
+<div class="about-text">
+
+I am an MBA candidate at University Canada West with a professional background in education and administration. My experience as a Primary School Teacher and Administrative Assistant has strengthened my ability to lead teams, manage operations, and communicate complex ideas clearly across diverse stakeholders.
+
+Working in both academic and administrative environments has shaped my structured and disciplined approach to problem-solving. I am particularly interested in how data analytics and strategic decision-making improve organizational performance and long-term sustainability. Through my MBA studies—especially in Business Predictive Analytics—I am developing the ability to translate data into actionable business insights.
+
+My goal is to transition into roles where analytical thinking, operational efficiency, and strategic planning drive measurable impact.
+
+</div>
+</div>
+
+## Education {#education}
+
+<div class="timeline">
+
+<div class="t-item">
+<p class="t-title">Master of Business Administration (MBA) — University Canada West</p>
+<p class="t-meta">Vancouver, Canada • Specialization: General MBA</p>
+<p class="t-meta">Relevant Coursework: Business Predictive Analytics, Strategic Management, Financial Decision-Making, Operations Management</p>
+</div>
+
+<div class="t-item">
+<p class="t-title">Bachelor’s Degree in Education — Royal University of Bhutan</p>
+<p class="t-meta">Graduated: 2016</p>
+</div>
+
+</div>
+
+
+## Professional Experience {#experience}
+
+<div class="timeline">
+
+<div class="t-item">
+<p class="t-title">Primary School Teacher — Tshaidang Primary School</p>
+<p class="t-meta">Zhemgang, Bhutan • 2017–2022</p>
+<ul>
+  <li>Managed classroom operations for 30+ students while maintaining structured learning outcomes and performance standards.</li>
+  <li>Designed lesson plans aligned with institutional objectives, improving student engagement and academic performance.</li>
+  <li>Monitored student progress using structured assessment frameworks and performance metrics.</li>
+  <li>Coordinated with parents and school leadership to ensure consistent communication and alignment on development goals.</li>
+  <li>Led extracurricular initiatives that enhanced student participation and community involvement.</li>
+</ul>
+</div>
+
+<div class="t-item">
+<p class="t-title">Administrative Assistant — Zhemgang District Administration</p>
+<p class="t-meta">Zhemgang, Bhutan • 2023–2024</p>
+<ul>
+  <li>Supported daily administrative operations, including documentation management, scheduling, and internal communications.</li>
+  <li>Streamlined record-keeping processes, improving document retrieval efficiency and workflow.</li>
+  <li>Assisted management with data entry, reporting, and performance tracking.</li>
+  <li>Coordinated meetings, prepared reports, and maintained confidential records with accuracy and professionalism.</li>
+  <li>Contributed to process improvements that reduced administrative delays and enhanced productivity.</li>
+</ul>
+</div>
+
+</div>
+
+
+## Key Skills & Strengths {#skills}
+
+
+**Strategic Thinking**  
+Ability to align daily operations with long-term institutional objectives.
+
+**Leadership & Stakeholder Management**  
+Experience leading classrooms, coordinating with parents, and supporting executive-level administrative functions.
+
+**Operational Discipline**  
+Strong organizational skills developed through structured classroom management and administrative systems.
+
+**Data & Analytical Literacy**  
+Experience interpreting performance data and currently strengthening predictive analytics capabilities through MBA coursework.
+
+**Communication**  
+Clear, structured communication across diverse audiences, from students to senior management.
+
+## Leadership & Impact {#leadership}
+
+Contributed to MBA team-based analytical projects involving data cleaning, exploratory data analysis, and business reporting.  
+Applied structured problem-solving frameworks to case studies in operations and strategy.  
+Demonstrated leadership through collaborative academic projects and presentation delivery.  
+
+## Contact {#contact}
+
+Email: <a href="mailto:ringotash1992@gmail.com">ringotash1992@gmail.com</a>  
+LinkedIn: <a href="https://www.linkedin.com/in/tashi-tshering-tamang-8b6a52344/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/tashi-tshering-tamang-8b6a52344/</a>
+
+<div class="footer">© 2026 Tashi Tshering Tamang. All rights reserved.</div>
+
+:::
